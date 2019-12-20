@@ -1,0 +1,3 @@
+I have never really utilized a README file before, but I suppose that because I am becoming a web developer, I should get used to using them. With that being said:
+
+This is a rock-paper-scissors game which I am creating (through the guidance of The Odin Project). At the moment, the first thing I plan on doing is establishing the basic logic of the game itself in JavaScript. Once I have developed the logic to my satisfaction, i will move onto attempting to create some type of user interface and experience using HTML and CSS in conjunction with JavaScript.
